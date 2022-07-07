@@ -14,7 +14,7 @@
     "@expo/samples": "2.1.1",
     "cities.json": "^1.1.5",
     "expo": "^32.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.23",
     "opencage-api-client": "^0.4.0",
     "react": "16.5.0",
