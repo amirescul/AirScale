@@ -15,7 +15,7 @@
     "cities.json": "^1.1.5",
     "expo": "^32.0.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "opencage-api-client": "^0.4.0",
     "react": "16.5.0",
     "react-moment": "^0.8.4",
