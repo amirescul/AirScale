@@ -13,7 +13,7 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "cities.json": "^1.1.5",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
     "opencage-api-client": "^0.4.0",
